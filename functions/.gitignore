@@ -1,0 +1,10 @@
+# Firebase functions secrets
+
+functions/.env
+functions/.runtimeconfig.json
+
+# Node modules inside functions
+
+functions/node_modules/
+
+functions/node_modules/
